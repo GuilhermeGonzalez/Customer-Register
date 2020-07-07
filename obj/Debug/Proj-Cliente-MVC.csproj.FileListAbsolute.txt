@@ -1,0 +1,368 @@
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj-Cliente-MVC.csprojAssemblyReference.cache
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj_Aula_BD.FClientes.resources
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj_Aula_BD.FPrincipal.resources
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj_Aula_BD.Properties.Resources.resources
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj-Cliente-MVC.csproj.GenerateResource.cache
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Proj-Aula-BD.exe.config
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Proj-Aula-BD.exe
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Proj-Aula-BD.pdb
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\EnvDTE.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\stdole.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\EnvDTE.xml
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj-Cliente-MVC.csproj.CopyComplete
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj-Aula-BD.exe
+D:\Temp\lp2\MVCEmAndamento\Proj-Aula-BD-novo-embranco\obj\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj-Cliente-MVC.csprojAssemblyReference.cache
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj_Aula_BD.Visao.FClientes.resources
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj_Aula_BD.Visao.FPrincipal.resources
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj_Aula_BD.Properties.Resources.resources
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj-Cliente-MVC.csproj.GenerateResource.cache
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj-Cliente-MVC.csproj.CoreCompileInputs.cache
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Proj-Aula-BD.exe.config
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\EnvDTE.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\stdole.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\EnvDTE.xml
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\Proj-Aula-MVC-embranco\Proj-Aula-MVC-embranco\obj\Debug\Proj-Cliente-MVC.csproj.CopyComplete
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj-Cliente-MVC.csprojAssemblyReference.cache
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj_Aula_BD.Visao.FTitular.resources
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj_Aula_BD.Visao.FPrincipal.resources
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj_Aula_BD.Properties.Resources.resources
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.GenerateResource.cache
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.CoreCompileInputs.cache
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Proj-Aula-BD.exe.config
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\EnvDTE.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\stdole.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\EnvDTE.xml
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.CopyComplete
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.exe.config
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\EnvDTE.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\stdole.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\EnvDTE.xml
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csprojAssemblyReference.cache
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Visao.FTitular.resources
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Visao.FPrincipal.resources
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Properties.Resources.resources
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.GenerateResource.cache
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.CoreCompileInputs.cache
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.CopyComplete
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Aula-BD.pdb
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.exe.config
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.exe
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.pdb
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\EnvDTE.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\stdole.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\EnvDTE.xml
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csprojAssemblyReference.cache
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Visao.FTitular.resources
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Visao.FPrincipal.resources
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Properties.Resources.resources
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\RdlCompile.cache
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\RdlCompile.compiled
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.CopyComplete
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Aula-BD.exe
+C:\Users\Hugo\Desktop\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.exe.config
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Proj-Aula-BD.pdb
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\EnvDTE.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\stdole.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\EnvDTE.xml
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csprojAssemblyReference.cache
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Visao.FTitular.resources
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Visao.FPrincipal.resources
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj_Aula_BD.Properties.Resources.resources
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.GenerateResource.cache
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\RdlCompile.cache
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\RdlCompile.compiled
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.CoreCompileInputs.cache
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Cliente-MVC.csproj.CopyComplete
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Aula-BD.exe
+C:\Users\nkdz\Desktop\FIPPCARE V3\GuilhermeCGonzalez_261810650_HugoOliveira_261821237\FippCare\obj\Debug\Proj-Aula-BD.pdb
